@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #7ED7C1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#app {
+    background: linear-gradient(to bottom, #f8b195, #f67280); /* Colores de helado */
+    width: 300px;
+    padding: 20px;
+    border-radius: 50px 50px 0 0; /* Redondea la parte superior */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#tasks-list {
+    list-style: none;
+    padding: 0;
+}
+
+#tasks-list li {
+    background-color: #fff; /* Color de las bolas de helado */
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 50%; /* Hace que las tareas sean circulares como bolas de helado */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.task-completed {
+    text-decoration: line-through;
+}
