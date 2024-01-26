@@ -1,4 +1,4 @@
-o-do List App
+To-do List App
 Descripción
 "To-do List App" es una aplicación web diseñada para ayudar a los usuarios a organizar sus tareas diarias. Desarrollada utilizando HTML, CSS y JavaScript, esta aplicación es un proyecto educativo que me permitió aprender y aplicar estas tecnologías en un contexto práctico.
 
